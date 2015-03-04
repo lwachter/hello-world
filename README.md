@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+My name is luca and I finally want to finish this tutorial
